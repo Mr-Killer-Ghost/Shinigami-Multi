@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "prefix": "-$",
+
+  "status": "Shinigami",
+  "activity_type": "streaming",
+  "_comment": "For activity_type you can use: watching, streaming, and listening"
+}

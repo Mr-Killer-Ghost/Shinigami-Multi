@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Shinigami-Tool/Shinigami-Multi">
-    <img src="https://github.com/Shinigami-Tool/Shinigami-Multi/blob/main/pics/351b9477bf2510678f2a63a2e2939843.jpg?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Mr-Killer-Ghost/Shinigami-Multi/blob/main/pics/351b9477bf2510678f2a63a2e2939843.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Shinigami MultiTool - <a href="https://shinigami-multi.pages.dev/">https://shinigami-multi.pages.dev/</a></h3>
 
@@ -17,8 +17,8 @@
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/Shinigami-Tool/Shinigami-Multi/blob/main/screenshots/Term.png?raw=true" height="300"/>
-  <img src="https://github.com/Shinigami-Tool/Shinigami-Multi/blob/main/screenshots/Raid.png?raw=true" height="300"/>
+  <img src="https://github.com/Mr-Killer-Ghost/Shinigami-Multi/blob/main/screenshots/Term.png?raw=true" height="300"/>
+  <img src="https://github.com/Mr-Killer-Ghost/Shinigami-Multi/blob/main/screenshots/Raid.png?raw=true" height="300"/>
 </p>
 
 

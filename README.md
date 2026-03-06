@@ -33,9 +33,12 @@
 - Token Joiner
 
 - Token Raider
+
 - Token Lookup
 
 - Webhook Raider
+
+- Webhook Spammer
 
 - Webhook Send
 
@@ -49,8 +52,6 @@
 ## Dox Note
 ```yaml
 - Dox Creater
-
-- Email Lookup
 
 - Username Lookup
 

@@ -15,6 +15,12 @@
 <h3 align="center">Please star to support this project For Free!!</h3>
 <br/>
 
+
+</p>
+<h3 align="center">Made by</h3>
+<h3 align="center">Fanta</h3><h3 align="center">qyet-ghost</h3>
+<br/>
+
 ## Screenshots
 <p align="center">
   <img src="https://github.com/Mr-Killer-Ghost/Shinigami-Multi/blob/main/screenshots/Term.png?raw=true" height="300"/>

@@ -30,12 +30,6 @@
 
 ## Functions
 ```yaml
-- Token Joiner
-
-- Token Raider
-
-- Token Lookup
-
 - Webhook Raider
 
 - Webhook Spammer
@@ -43,10 +37,6 @@
 - Webhook Send
 
 - Nuke bot
-
-- Token DM
-
-- Server DM
 ```
 
 ## Dox Note
@@ -71,9 +61,6 @@
 
 ## Other
 ```yaml
-- Email Bomber
-
-- Show HWID
 
 - Tasklist
 ```

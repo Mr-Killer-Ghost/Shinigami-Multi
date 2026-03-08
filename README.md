@@ -6,7 +6,7 @@
 
   <p align="center">
     Shinigami-MultiTool - Is a Multitool in Python Mainly for discord but has other features
-    it is supported by both windows and linux!
+    it is supported by windows only. (sorry linux users)
     <br/>
     <br/>
     <a href="https://discord.gg/5uEXdDKgbD">Join our Discord</a>
@@ -18,7 +18,7 @@
 
 </p>
 <h3 align="center">Made by</h3>
-<h3 align="center">Fanta</h3><h3 align="center">qyet-ghost</h3>
+<h3 align="center">Misanthropy</h3><h3 align="center">qyet-ghost</h3>
 <br/>
 
 ## Screenshots

@@ -1,5 +1,5 @@
-Here are instructions:
-1. Install the tool with !download or GitHub latest release
+Here are instructions on installing Shinigami
+1. Install the tool with !download (if your in the discord) or GitHub latest release
 2. Run the batch file (or extract the ZIP)
 3. run install.bat to install modules
 Common issues:
